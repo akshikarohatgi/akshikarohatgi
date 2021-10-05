@@ -1,10 +1,9 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/akshikarohatgi/akshikarohatgi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Born and grown in Delhi, India. I completed my Master's from IIT Kharagpur. Currently working on seismic inversion and machine learning at UT Austin remotely and will be joining Schlumberger, Asia soon! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+Interests: Seismic Inversion and Subsurface Imaging 
+ ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
