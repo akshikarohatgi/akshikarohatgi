@@ -1,16 +1,17 @@
-## Welcome to GitHub Pages
+## Hi!
 
-Born and grown in Delhi, India. I completed my Master's from IIT Kharagpur. Currently working on seismic inversion and machine learning at UT Austin remotely and will be joining Schlumberger, Asia soon! 
+Born and grown in Delhi, India. I completed my Master's from IIT Kharagpur. 
+Currently working on seismic inversion and machine learning at UT Austin remotely and will be joining Schlumberger, Asia soon! 
 
 Interests: Seismic Inversion and Subsurface Imaging 
- ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+ 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Education: 
+IIT Kharagpur: Master's in Geophysics
+Delhi University: Bachelor's in Physics 
+
 ## Header 2
 ### Header 3
 
